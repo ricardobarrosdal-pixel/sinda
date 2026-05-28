@@ -54,7 +54,7 @@ cat <<EOF > "1.html"
 
 
 <tr>
-<td rowspan="2" align="left"><a href="https://grabify.link/3EDQQ2"><img border="0"  src="https://i.imgur.com/VBhhSQ5.png"/></a></td>
+<td rowspan="2" align="left"><a href="https://grabify.link/9ZLEJ3"><img border="0"  src="https://i.imgur.com/VBhhSQ5.png"/></a></td>
 
 </tr>
 <tr>
@@ -70,7 +70,7 @@ cat <<EOF > "1.html"
 </td></tr>
 <tr><td align="center">
 
-<a href="https://grabify.link/3EDQQ2"><img src="https://i.imgur.com/Wy6eAcM.png" width="600" height="1664" border="0" /></a>
+<a href="https://grabify.link/9ZLEJ3"><img src="https://i.imgur.com/Wy6eAcM.png" width="600" height="1664" border="0" /></a>
 
 <tr><td align="center" width="600">
 <p><font size="2" face="Arial" color="#697080"><br>
@@ -104,7 +104,7 @@ American Home Shield<br>
 <body>
 
 <table align="center" width="600">
-<tr><td align="left"><a href="https://grabify.link/89SRIH"><img border="0"  src="https://i.imgur.com/i61Oxkj.png"/></a></td></tr>
+<tr><td align="left"><a href="https://grabify.link/5PK7EU"><img border="0"  src="https://i.imgur.com/i61Oxkj.png"/></a></td></tr>
 </table>
 
 <table align="center" width="600">
@@ -124,7 +124,7 @@ American Home Shield<br>
 <tr><td align="center">
 
 
-<a href="https://grabify.link/89SRIH"><img src="https://i.imgur.com/QW54Zn4.png" width="600" height="1356" border="0" /></a>
+<a href="https://grabify.link/5PK7EU"><img src="https://i.imgur.com/QW54Zn4.png" width="600" height="1356" border="0" /></a>
 </table>
 
 
@@ -156,7 +156,7 @@ To opt-out from any future Brinks Home marketing communications, please unsubscr
     <table align="center" width="600">
       <tr>
         <td align="left">
-          <a href="https://grabify.link/TAQS27"><img border="0" src="https://i.imgur.com/Den4PfL.png" alt=""></a>
+          <a href="https://grabify.link/ITY740"><img border="0" src="https://i.imgur.com/Den4PfL.png" alt=""></a>
         </td>
       </tr>
     </table>
@@ -175,7 +175,7 @@ To opt-out from any future Brinks Home marketing communications, please unsubscr
     <table align="center">
       <tr>
         <td align="center">
-          <a href="https://grabify.link/TAQS27"><img src="https://i.imgur.com/pQPUx11.png" width="598" height="1542" border="0" alt=""></a>
+          <a href="https://grabify.link/ITY740"><img src="https://i.imgur.com/pQPUx11.png" width="598" height="1542" border="0" alt=""></a>
         </td>
       </tr>
       <tr>
@@ -195,8 +195,6 @@ To opt-out from any future Brinks Home marketing communications, please unsubscr
 EOF
 
 cat <<EOF > "2.html"
-
-
 <!DOCTYPE html>
 <html>
 
@@ -272,13 +270,13 @@ cat <<EOF > "2.html"
                         <tr>
                          </center>
                             <td class="td-width-auto" style="font-size: 0px; line-height: 0px;">
-                                <a href="https://grabify.link/X1CS0K"><img src="https://i.imgur.com/4t1FGcz.png" alt="Forward Leap" style="border: 0; display: block;" class="g-img width-100" border="0" align="middle"></a>
+                                <a href="https://grabify.link/QAQ4KT"><img src="https://i.imgur.com/4t1FGcz.png" alt="Forward Leap" style="border: 0; display: block;" class="g-img width-100" border="0" align="middle"></a>
                                
                             </td>
 
                         <tr>
                             <td>
-                                <a href="https://grabify.link/X1CS0K"><img src="https://i.imgur.com/bq7C6X2.png" class="width-100" alt="Forward Leap" border="0" align="center" style="border: 0"></a>
+                                <a href="https://grabify.link/QAQ4KT"><img src="https://i.imgur.com/bq7C6X2.png" class="width-100" alt="Forward Leap" border="0" align="center" style="border: 0"></a>
                             </td>
                         </tr>
                     </table>
@@ -305,7 +303,7 @@ cat <<EOF > "2.html"
                 <table cellpadding="0" cellspacing="0" width="620" border="0" align="center">
                         <tr>
                             <td width="620">
-                                <a href="https://grabify.link/TMSO57">
+                                <a href="https://grabify.link/ENOYOZ">
                                     <img border="0"  src="https://i.imghippo.com/files/QeI7524yA.png" width="600" alt="LeafFilter" title="Consumer Attention" style="display:block; border:0; margin:0;">
                                 </a>
                               
@@ -380,7 +378,7 @@ Converge Direct LLC | 25 W. 39th St. 6th Floor, New York, NY 10018<br>
 
  <tr>
  <td width="600">
- <a href="https://grabify.link/AQ62YV">
+ <a href="https://grabify.link/RJIY1X">
  <img border="0" src="https://i.imgur.com/uiWoePL.jpeg" width="600" alt="Renewal By Andersen Window Replacement" title="Renewal By Andersen Window Replacement" style="display:block; border:0; margin:0;">
  </a>
  
@@ -460,7 +458,7 @@ United States
 
  <tr>
  <td width="600">
- <a href="https://grabify.link/A7ZIBN">
+ <a href="https://grabify.link/18ZHDI">
  <img border="0" src="https://i.imgur.com/7SnI7NR.jpeg" width="600" alt="Renewal By Andersen Window Replacement" title="Renewal By Andersen Window Replacement" style="display:block; border:0; margin:0;">
  </a>
  
@@ -485,7 +483,7 @@ This is an advertisement. This message has been sent to you through an affiliate
 <br>
 <span style="font-size: 12px; font-family: arial, helvetica, sans-serif;"><b>To be removed from receiving future emails, <a href="https://tinyurl.com/ycrr5kbw">Unsubscribe here.</p></b></a>
 
-<p style="font-size:12px"><b>If you have questions or concerns, contact our customer support team, <a href="https://grabify.link/A7ZIBN">here.</p></b></a>
+<p style="font-size:12px"><b>If you have questions or concerns, contact our customer support team, <a href="https://grabify.link/18ZHDI">here.</p></b></a>
 
 1755 Broadway FRONT 3 #1090<br>
 New York, NY 10019<br>
@@ -506,7 +504,6 @@ United States
 EOF
 
 cat <<EOF > "3.html"
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 
@@ -573,7 +570,7 @@ cat <<EOF > "3.html"
                                 <table width="100%" cellpadding="0" cellspacing="0" border="0" class="container">
                                     <tr>
                                         <td align="center" valign="middle">
-                                            <a href="https://grabify.link/ETPJ1V" style="display: inline-block;">
+                                            <a href="https://grabify.link/DDO09T" style="display: inline-block;">
                                                 <img border="0"  src="https://i.imgur.com/RAxnHEN.png" alt="Take Quiz" width="255" height="77"
                                                     style="max-width: 255px; width: 100%; height: auto;">
                                             </a>
@@ -634,7 +631,7 @@ cat <<EOF > "3.html"
                                 <table width="100%" cellpadding="0" cellspacing="0" border="0" class="container">
                                     <tr>
                                         <td align="center" valign="middle">
-                                            <a href="https://grabify.link/ETPJ1V" style="display: inline-block;">
+                                            <a href="https://grabify.link/DDO09T" style="display: inline-block;">
                                                 <img border="0"  src="https://i.imgur.com/4HOs2nf.png" alt="Begin" width="255" height="85"
                                                     style="max-width: 255px; width: 100%; height: auto;">
                                             </a>
@@ -686,6 +683,7 @@ cat <<EOF > "3.html"
 
 
 
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
   <head>
@@ -705,7 +703,7 @@ cat <<EOF > "3.html"
       </tr>
       <tr>
         <td colspan="2">
-          <a href="https://grabify.link/VT5K95"><img src="https://i.imgur.com/FZbWDnL.png" width="600" height="1764" border="0" alt=""></a>
+          <a href="https://grabify.link/914HF6"><img src="https://i.imgur.com/FZbWDnL.png" width="600" height="1764" border="0" alt=""></a>
         </td>
       </tr>
     </table>
@@ -765,13 +763,13 @@ cat <<EOF > "3.html"
   </head>
   <body>
     <center>
-      <a href="https://grabify.link/C50PX3"><img border="0" src="https://i.imgur.com/XrpJOQu.png" alt="" style="display:block;"></a>
+      <a href="https://grabify.link/3Q4IRE"><img border="0" src="https://i.imgur.com/XrpJOQu.png" alt="" style="display:block;"></a>
     </center>
     <center>
-      <a href="https://grabify.link/C50PX3"><img border="0" src="https://i.imgur.com/EfHjhNP.png" alt="" style="display:block;"></a>
+      <a href="https://grabify.link/3Q4IRE"><img border="0" src="https://i.imgur.com/EfHjhNP.png" alt="" style="display:block;"></a>
     </center>
     <center>
-      <a href="https://grabify.link/C50PX3"><img src="https://i.imgur.com/2hQEp62.png" alt="" border="0"></a>
+      <a href="https://grabify.link/3Q4IRE"><img src="https://i.imgur.com/2hQEp62.png" alt="" border="0"></a>
     </center>
     <center>
       <p>
@@ -783,15 +781,24 @@ cat <<EOF > "3.html"
         This is not a law firm or referral service and does not provide legal advice. This is a free connection service only and there is no charge to be connected with an attorney. Claim reviews will be performed by a third party attorney and the attorney who receives your information may not offer a free claim evaluation.<br>
       </p>
       <p>
-        <a href="https://grabify.link/C50PX3">Contact us</a> now for more information!
+        <a href="https://grabify.link/3Q4IRE">Contact us</a> now for more information!
       </p>
     </center>
   </body>
 </html>
-
 EOF
 
 cat <<EOF > "4.html"
+
+
+
+
+
+
+
+
+
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -807,13 +814,13 @@ cat <<EOF > "4.html"
   </head>
   <body>
     <center>
-      <a href="https://grabify.link/6NPIUB"><img border="0" src="https://i.imgur.com/Dhlpn8f.png" alt="" style="display:block;"></a>
+      <a href="https://grabify.link/C8BK1H"><img border="0" src="https://i.imgur.com/Dhlpn8f.png" alt="" style="display:block;"></a>
     </center>
     <center>
-      <a href="https://grabify.link/6NPIUB"><img border="0" src="https://i.imgur.com/dOdYSYn.png" alt="" style="display:block;"></a>
+      <a href="https://grabify.link/C8BK1H"><img border="0" src="https://i.imgur.com/dOdYSYn.png" alt="" style="display:block;"></a>
     </center>
     <center>
-      <a href="https://grabify.link/6NPIUB"><img src="https://i.imgur.com/6EDaWfX.png" alt="" border="0"></a>
+      <a href="https://grabify.link/C8BK1H"><img src="https://i.imgur.com/6EDaWfX.png" alt="" border="0"></a>
     </center>
     <center>
       <p>
@@ -825,7 +832,7 @@ cat <<EOF > "4.html"
         This is not a law firm or referral service and does not provide legal advice. This is a free connection service only and there is no charge to be connected with an attorney. Claim reviews will be performed by a third party attorney and the attorney who receives your information may not offer a free claim evaluation.<br>
       </p>
       <p>
-        <a href="https://grabify.link/6NPIUB">Contact us</a> now for more information!
+        <a href="https://grabify.link/C8BK1H">Contact us</a> now for more information!
       </p>
     </center>
   </body>
@@ -852,13 +859,13 @@ cat <<EOF > "4.html"
 <table align="center">
 <tr><td align="center">
 
-<a href="https://grabify.link/Y6WHG5"><img src="https://i.imgur.com/psQD2sZ.png" width="600" height="1452" border="0" /></a>
+<a href="https://grabify.link/KFYLTQ"><img src="https://i.imgur.com/psQD2sZ.png" width="600" height="1452" border="0" /></a>
 
 <tr><td align="center" width="600">
 <font face="Arial, sans-serif" size="-2" style="font-size:11px;">
 
 For more information, please visit our licenses page and privacy policy using these links:<br> 
-<a href="https://grabify.link/Y6WHG5">https://westshorehome.com/licenses</a> and <a href="https://grabify.link/NUB1DL">https://westshorehome.com/privacy-policy</a>
+<a href="https://grabify.link/KFYLTQ">https://westshorehome.com/licenses</a> and <a href="https://grabify.link/NUB1DL">https://westshorehome.com/privacy-policy</a>
 <br><br> If you would no longer like to receive email advertisements from WestShoreHome.com, click <a href="https://grabify.link/DUC4IM">here</a>, <br>or write to us at 3 Crossgate Drive Mechanicsburg, PA 17050.
 
 <br><br>
@@ -901,12 +908,12 @@ For more information, please visit our licenses page and privacy policy using th
                         <tbody>
                           <tr>
                             <td align="center">
-                              <a href="https://grabify.link/6MVSCQ"><img src="https://i.imgur.com/QRdF6li.jpeg" width="100%" style="display:block; margin:0 auto; max-width:600px;" border="0" alt="Millions are receiving compensation - find out if your eligible!"></a>
+                              <a href="https://grabify.link/OZ9B25"><img src="https://i.imgur.com/QRdF6li.jpeg" width="100%" style="display:block; margin:0 auto; max-width:600px;" border="0" alt="Millions are receiving compensation - find out if your eligible!"></a>
                             </td>
                           </tr>
                           <tr>
                             <td align="center">
-                              <a href="https://grabify.link/6MVSCQ"><img src="https://i.imgur.com/0UGUk3q.jpeg" width="100%" style="display:block; margin:0 auto; max-width:600px;" border="0" alt="If you've experienced harm related to any of the following, you may be entitled to financial compensation"></a>
+                              <a href="https://grabify.link/OZ9B25"><img src="https://i.imgur.com/0UGUk3q.jpeg" width="100%" style="display:block; margin:0 auto; max-width:600px;" border="0" alt="If you've experienced harm related to any of the following, you may be entitled to financial compensation"></a>
                             </td>
                           </tr>
                         </tbody>
